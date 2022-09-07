@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Contribution snake example](https://github.com/harundemirkaya/harundemirkaya/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/<harundemirkaya>/<harundemirkaya>/blob/output/github-contribution-grid-snake.svg)
 -->
