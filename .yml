@@ -1,2 +1,0 @@
-- name: Generate-README.md-snake
-  uses: InvalidLenni/README.md@Template
