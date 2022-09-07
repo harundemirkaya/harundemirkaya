@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: harundemirkaya
             # Text on contribution graph 
-            text: I LOVE FLUTTER
+            text: HARUN DEMİRKAYA
        - uses: jasineri/simple-push-action@v1
