@@ -1,13 +1,13 @@
 ### Hi there 👋
-💻 I am a IOS Developer
+💻 I am a Middle Mobile Developer
 
 📚 I am a computer engineer
 
-📝 I have interest in mobile application with Swift and Flutter
+📝 I have interest in mobile application with Flutter and Swift
 
-🔭 I am working on many mobile applications with Swift.
+🔭 I am working on many mobile applications with Flutter and Swift.
 
-⚡ Main languages: Swift
+⚡ Main languages: Flutter
 
 
 <br/>  
