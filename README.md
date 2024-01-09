@@ -7,7 +7,7 @@
 
 🔭 I am working on many mobile applications with Flutter and Swift.
 
-⚡ Main languages: Flutter
+⚡ Main languages: Flutter - Swift
 
 
 <br/>  
