@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻 I am a Middle Mobile Developer
+💻 I am a Mobile Developer
 
 📚 I am a computer engineer
 
