@@ -16,10 +16,6 @@
 
 ![gitartwork](gitartwork.svg)
 <br/>  <br/>  
-<div align="center">
-  <a href="https://github.com/harundemirkaya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harundemirkaya&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <br/>  <br/>  
 ## Connect with me  
